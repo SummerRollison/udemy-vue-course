@@ -1,5 +1,5 @@
 <template>
-  <nav>
+  <nav class="main-nav">
     <h2>Menu</h2>
     <ul>
       <li>
@@ -25,7 +25,7 @@ export default {
 </script>
 
 <style>
-nav {
+nav.main-nav {
   text-align: center;
 }
 
